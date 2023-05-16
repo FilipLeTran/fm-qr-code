@@ -1,8 +1,14 @@
+body {
+    background-color: #D5E1EF;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: white;
+  border-radius: 20px;
 }
 
 .logo {
