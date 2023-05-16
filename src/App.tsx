@@ -12,7 +12,8 @@ function App() {
       <div>
         <img src={qrCode} alt="qr-code" />
       </div>
-      <h1>Vite + React</h1>
+      <h1>Improve your front-end skills by building projects</h1>
+      <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
