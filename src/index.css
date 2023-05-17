@@ -29,11 +29,20 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: #D5E1EF;
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  font-size: 1.5em;
+  line-height: 1.5;
+  margin: 1em;
+}
+
+p {
+    color: #a7b2be;
+    font-weight: 600;
+    font-size: 1.1em;
+    margin: 1em;
 }
 
 button {
